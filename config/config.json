@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Barcelona10",
+    "database": "auth_cars",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Barcelona10",
+    "database": "auth_cars",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Barcelona10",
+    "database": "auth_cars",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
